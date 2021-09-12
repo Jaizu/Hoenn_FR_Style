@@ -1729,3 +1729,63 @@ gTilesetPalettes_UnionRoom::
 	.align 2
 gTilesetTiles_UnionRoom::
 	.incbin "data/tilesets/secondary/union_room/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_PalletTown::
+	.incbin "data/tilesets/secondary/pallettown/palettes/00.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/01.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/02.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/03.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/04.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/05.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/06.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/07.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/08.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/09.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/pallettown/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_PalletTown::
+	.incbin "data/tilesets/secondary/pallettown/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_gTileset_General_Kanto::
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/00.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/01.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/02.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/03.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/04.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/05.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/06.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/07.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/08.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/09.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/10.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/11.gbapal"
+	.incbin "data/tilesets/primary/gtileset_general_kanto/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_gTileset_General_Kanto::
+	.incbin "data/tilesets/primary/gtileset_general_kanto/tiles.4bpp.lz"
+
+	.align 2
+gTilesetPalettes_ViridianCity::
+	.incbin "data/tilesets/secondary/viridiancity/palettes/00.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/01.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/02.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/03.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/04.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/05.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/06.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/07.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/08.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/09.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/10.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/11.gbapal"
+	.incbin "data/tilesets/secondary/viridiancity/palettes/12.gbapal"
+
+	.align 2
+gTilesetTiles_ViridianCity::
+	.incbin "data/tilesets/secondary/viridiancity/tiles.4bpp.lz"
